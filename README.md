@@ -114,8 +114,7 @@ npm start
 
 ## 🙌 Contributors
 
-- Bhavish Sindhi
-- [Add more contributors]
+- Bhavish Kumar
 
 ---
 
